@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW04</string>
+    <string name="keyword_label">Search Keyword</string>
+    <string name="go_btn">Go</string>
+    <string name="load_image">Loading Photo...</string>
+    <string name="load_dict">Loading Dictionary...</string>
+</resources>
